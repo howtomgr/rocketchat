@@ -1,0 +1,68 @@
+{
+  "category": "team-chat",
+  "created_date": "2025-09-15T22:48:58.940577",
+  "default_ports": [
+    80,
+    443,
+    3000,
+    3001
+  ],
+  "dependencies": [
+    "mongodb",
+    "nodejs",
+    "graphicsmagick"
+  ],
+  "description": "rocketchat is a free and open-source open source team communication platform. Rocket.Chat offers real-time chat, video conferencing, and team collaboration, serving as an alternative to Slack or Microsoft Teams",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/team-chat/rocketchat",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/team-chat/rocketchat",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.940601",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "rocketchat",
+  "repository_url": "https://github.com/howtomgr/rocketchat",
+  "spec_version": "2.0",
+  "subcategory": "team-chat",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "team-chat",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication",
+    "multimedia"
+  ],
+  "title": "rocketchat Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/team-chat/rocketchat"
+}
